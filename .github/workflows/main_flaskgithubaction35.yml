@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'FlaskGithubAction35'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2422312972C6467CBC2D4691FC915731 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0454907D00874A9BB130D8F08EB460BB }}
